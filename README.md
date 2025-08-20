@@ -18,4 +18,4 @@ HostMax:   172.27.255.254        10101100.00011011 .11111111.11111110
 Hosts/Net: 65534                 (Private Internet)
 - https://en.wikipedia.org/wiki/Private_network aprender a tabela desse site
 - O DNS (Sistema de Nomes de Domínio) é um sistema que traduz nomes de domínio legíveis por humanos (como www.exemplo.com) em endereços IP numéricos (como 192.0.2.44) que os computadores usam para se comunicarem na internet. É como uma lista telefônica para a internet, onde você procura pelo nome de um site e encontra o endereço IP correspondente.
-- 
+- a
