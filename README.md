@@ -1,5 +1,7 @@
 # Aulas_Redes_Computadores
 # Esboço de aulas de redes ou curiosidades 
+- https://www.shorturl.at/tPjoQ.
+- Gran Qeustões.com
 - https://jodies.de/ipcalc - site para encontrar o ip local
 - utilizar a coversão para numero bínario
 - coversão de ip sempre será 8 digitos ou byts
