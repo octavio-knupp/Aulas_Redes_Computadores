@@ -173,4 +173,42 @@ A camada de aplicação corresponde às aplicações (programas) no topo da cama
 
 Tudo nesta camada é relacionado ao software. Alguns protocolos utilizados nesta camada são: HTTP, SMTP, FTP, Telnet, SIP, RDP, IRC, SNMP, NNTP, POP3, IMAP, BitTorrent, DNS, ICMP.
 
-# HELLO WORD
+# TAMANHO DO IPV4
+- Um endereço IPv4 tem 32 bits de tamanho. Este espaço de endereço de 32 bits permite a criação de aproximadamente 4,3 mil milhões (ou 2^32) de endereços IP únicos. Cada um desses endereços é usualmente representado como quatro conjuntos de números decimais (de 0 a 255), separados por pontos, como por exemplo 192.0.2.1.
+# TAMANHO DO IPV6 
+- Um endereço IPv6 tem 128 bits de comprimento. Isso representa um aumento significativo em relação ao IPv4, que utiliza 32 bits, permitindo assim um número muito maior de endereços IP disponíveis para a internet e a conexão de dispositivos.
+# REVISÃO PROVA DIA 22/09
+-Compreender as redes de computadores, a arquitetura TCP/IP, seus
+protocolos e aplicações principais.
+Apresentar os conceitos básicos das redes de computadores.
+Identificar camadas de protocolos de rede no Modelo OSI e similares.
+Detalhar os principais protocolos e aplicações em uso em redes modernas.
+Prever problemas de desempenho e gargalos causados por pela configuração
+da rede.
+Calcular de forma aproximada o volume de dados e tempo de resposta de
+aplicações desde a fase de projeto.
+Ranquear as formas de conectividade tanto por desempenho quanto por
+segurança.
+Aplicar boas práticas de segurança de redes.
+Diagnosticar e explicar problemas típicos de conectividade.
+Combinar dispositivos em uma rede de pequeno porte para uso de aplicações
+específicas. 
+
+- SWITCHES EVITAM COLISÃO POR SER SWITCHES SÓ ACONTECEM QUANDO TODO MUNDO MESMO TENTAR TRANSMITIR AO MESMO TEMPO QUE AI DA UM ERRO DE SOBRECARGA.
+
+- PROTOCOLOS EMAIL Ñ NECESSARIAMENTE CAUSAM RETRANMISSÃO.
+
+- HUB NOME DADO AO UM DISPOSITIVO DO SÉCULO PASSADO, HUB COM 50 MAQUINAS JÁ CAUSA COLISÃO.
+
+- Conversão de KB/S PARA   mBPS
+
+- CABO COAXIAL EXIGE BARRAMENTO
+  
+  # O que é um Roteador com NAT?
+
+Um roteador com NAT (Network Address Translation) é um roteador que traduz os endereços IP privados da sua rede local (LAN) para um único endereço IP público ao se comunicar com a internet — e vice-versa.
+
+
+# O que é um Gateway?
+
+Um gateway é um dispositivo (ou software) que funciona como uma porta de entrada ou saída entre duas redes diferentes, permitindo a comunicação entre elas mesmo que usem protocolos, arquiteturas ou tecnologias diferentes.
