@@ -212,3 +212,11 @@ Um roteador com NAT (Network Address Translation) é um roteador que traduz os e
 # O que é um Gateway?
 
 Um gateway é um dispositivo (ou software) que funciona como uma porta de entrada ou saída entre duas redes diferentes, permitindo a comunicação entre elas mesmo que usem protocolos, arquiteturas ou tecnologias diferentes.
+
+# IP
+- IP Um número que identifica um dispositivo em uma rede
+
+
+# CURIOSIDADE 
+- Na topologia em estrela, todos os dispositivos se conectam a um ponto central, como um switch ou hub, facilitando a identificação e isolamento de falhas em um único nó, pois a falha de uma estação de trabalho individual não afeta a comunicação das demais.
+- A topologia em malha (mesh) oferece alta redundância e tolerância a falhas, pois cada dispositivo possui múltiplas conexões diretas com outros dispositivos, permitindo múltiplas rotas para a transmissão de dados, embora sua implementação possa ser complexa e dispendiosa para redes de grande porte.
